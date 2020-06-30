@@ -1,9 +1,10 @@
 # X BLOG WordPress Theme 
 
+[![Github image preview](https://wpthemespace.com/wp-content/uploads/2018/09/screenshot-2.png)](https://wpthemespace.com/product/x-blog/)
 
 X Blog is a smart WordPress blog theme. 
-X Blog wordpress theme now supported Gutenberg editor. now you can built your site using the new Gutenberg editor.
-X Blog is an awsome WordPress blog theme. X Blog WordPress theme support custom header image, feature image, unlimited color changing options, custom background, 5 different color theme look,different logo position, footer widget, font Awesome icons, Diffrent blog style and many more features. So you can enjoy your bloging with WordPress X Blog theme.
+X Blog WordPress theme now supported Gutenberg editor. now you can build your site using the new Gutenberg editor.
+X Blog is an awesome WordPress blog theme. X Blog WordPress theme support custom header image, feature image, unlimited color changing options, custom background, 5 different color theme look, different logo position, footer widget, font Awesome icons, Different blog style and many more features. So you can enjoy your blogging with WordPress X Blog theme.
 
 # Getting Started
   * [Getting Started Video](https://www.youtube.com/watch?v=Cu3eFFQskCs)
@@ -15,8 +16,7 @@ X Blog is an awsome WordPress blog theme. X Blog WordPress theme support custom 
 # Theme Features 
 
 * 4+ Blog Layouts
-* Grid masnory support
-* Grid masnory support
+* Grid masonry support
 * Responsive design
 * WordPress Theme Customizer support
 * SEO friendly
@@ -41,3 +41,5 @@ X Blog is an awsome WordPress blog theme. X Blog WordPress theme support custom 
 * 5 Custom built-in widgets
 * Documentation Included
 
+# Create Your WordPress Website With the X BLOG WordPress Theme 
+If you find any issue please contribute or tell me for a fix
