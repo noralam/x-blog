@@ -8,7 +8,7 @@ X Blog is an awesome WordPress blog theme. X Blog WordPress theme support custom
 
 # Getting Started
   * [Getting Started Video](https://www.youtube.com/watch?v=Cu3eFFQskCs)
-  * [Demos](https://wpthemespace.com/product/x-blog/)
+  * [Demos](http://wpthemespace.com/xblog/xdemo/)
   * [Premium Version Link](https://wpthemespace.com/product/x-blog/)
   * [WordPress ORG Link](https://wordpress.org/themes/x-blog/)
   
